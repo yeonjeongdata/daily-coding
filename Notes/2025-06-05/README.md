@@ -17,6 +17,9 @@ https://school.programmers.co.kr/learn/courses/30/lessons/151137
 - 이때 자동차 수에 대한 컬럼명은 CARS로 지정
 - 결과는 자동차 종류를 기준으로 오름차순 정렬
 
+![image](https://github.com/user-attachments/assets/44a1efee-9432-4fcb-8fcb-a235d31f57fd)
+
+
 #### 코드:
 ```sql
 SELECT CAR_TYPE, COUNT(*) CARS
